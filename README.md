@@ -1,8 +1,6 @@
 [![Build Status][travis-image]][travis-url]
-[![Code Quality][codeclimate-image]][codeclimate-url]
 [![Coverage Status][coverage-image]][coverage-url]
 [![NPM version][npm-version-image]][npm-url]
-[![NPM downloads][npm-dn-image]][npm-url]
 [![MIT License][license-image]][license-url]
 
 # Tmpl
